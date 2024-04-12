@@ -1,0 +1,16 @@
+.todo {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+.container {
+  width: 500px;
+  margin: auto;
+}
+.adder {
+  display: flex;
+  gap: 20px;
+}
+.antdinput-oguuv {
+  width: 200px;
+}
